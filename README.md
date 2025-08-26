@@ -2,6 +2,16 @@
 
 ###
 
+# Hi, I'm Nicole 👋
+
+🎓 Graduated in **Systems Analysis and Development**, with experience in **front-end and back-end development**, as well as **project documentation management** and **software testing**.  
+
+🎨 In my free time, I enjoy expressing my creativity through **painting**, relaxing with **games**, and experimenting with new recipes in **cooking**.  
+
+🚀 I'm passionate about learning new technologies, building efficient solutions, and contributing to projects that make a real impact.  
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicgalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicgalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
