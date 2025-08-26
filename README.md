@@ -2,8 +2,6 @@
 
 ###
 
-# Hi, I'm Nicole 👋
-
 🎓 Graduated in **Systems Analysis and Development**, with experience in **front-end and back-end development**, as well as **project documentation management** and **software testing**.  
 
 🎨 In my free time, I enjoy expressing my creativity through **painting**, relaxing with **games**, and experimenting with new recipes in **cooking**.  
